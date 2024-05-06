@@ -34,6 +34,6 @@ This project is a static website for an Ecommerce Shop. It includes HTML and CSS
 - **Cart**: Page displaying the user's shopping cart with selected items.
 - **About**: About page providing information about the Ecommerce Shop.
 
-## License
+## Contributing
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+Contributions are welcome! If you'd like to contribute to this project, feel free to open a pull request. Please contact me on the [LinkedIn](https://www.linkedin.com/in/arsen-florikyan-623326234/).
