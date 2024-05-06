@@ -12,7 +12,7 @@ This is a simple Ecommerce Shop project showcasing products with a responsive de
 
 ## Description
 
-This project is a static website for an Ecommerce Shop. It includes HTML and CSS files for the frontend layout and styling JavaScript for behaviour.
+This project is a static website for an Ecommerce Shop. It includes HTML, CSS and JavaScript files for the frontend layout, styling and behaviour.
 
 ## Features
 
